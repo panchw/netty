@@ -8,6 +8,10 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.logging.Logger;
 
+/**
+ * @author nixx
+ *
+ */
 public class MyFirstServer implements Runnable{
 	
 	private Socket socket;
