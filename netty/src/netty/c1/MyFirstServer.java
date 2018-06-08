@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 /**
  * @author nixx
  * 
- * 我的第一个Socket Server
+ * 杩欐槸鎴戠殑绗竴涓猄ocket Server
  * test1
  */
 public class MyFirstServer implements Runnable{
