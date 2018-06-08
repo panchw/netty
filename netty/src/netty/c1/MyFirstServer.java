@@ -10,7 +10,9 @@ import java.util.logging.Logger;
 
 /**
  * @author nixx
- *
+ * 
+ * 我的第一个Socket Server
+ * test
  */
 public class MyFirstServer implements Runnable{
 	
