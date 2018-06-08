@@ -13,9 +13,6 @@ import java.util.logging.Logger;
  * 
  * 这是我的第一个Socket Server
  * test1
- * 
- * dev 333
- * haha
  */
 public class MyFirstServer implements Runnable{
 	
