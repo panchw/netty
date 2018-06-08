@@ -12,7 +12,7 @@ import java.util.logging.Logger;
  * @author nixx
  * 
  * 我的第一个Socket Server
- * test
+ * test1
  */
 public class MyFirstServer implements Runnable{
 	
